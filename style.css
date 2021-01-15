@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #ed8a8a;
+    color: #b5c591
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+header img {
+    max-height: 300px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 32px 0 0 0;
+}
